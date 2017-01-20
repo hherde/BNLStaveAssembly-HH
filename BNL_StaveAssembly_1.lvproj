@@ -131,6 +131,7 @@
 				<Item Name="GetCurrentXYZPosition (SubVI).vi" Type="VI" URL="../SubVIs/GetCurrentXYZPosition (SubVI).vi"/>
 			</Item>
 			<Item Name="FileAccess" Type="Folder">
+				<Item Name="ImageArray2File (SubVI).vi" Type="VI" URL="../SubVIs/ImageArray2File (SubVI).vi"/>
 				<Item Name="File2Array (SubVI).vi" Type="VI" URL="../SubVIs/File2Array (SubVI).vi"/>
 				<Item Name="UpdateFileName (SubVI).vi" Type="VI" URL="../SubVIs/UpdateFileName (SubVI).vi"/>
 				<Item Name="SaveImagesFromArray (SubVI).vi" Type="VI" URL="../SubVIs/SaveImagesFromArray (SubVI).vi"/>
@@ -420,12 +421,8 @@
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="Bounding Box to Rectangle ROI (LV 2013 SP1) (SubVI).vi" Type="VI" URL="../SubVIs/Bounding Box to Rectangle ROI (LV 2013 SP1) (SubVI).vi"/>
 			<Item Name="KillPixelsOutsideCircularROI (SubVI).vi" Type="VI" URL="../SubVIs/KillPixelsOutsideCircularROI (SubVI).vi"/>
-			<Item Name="Aerotech.A3200.dll" Type="Document" URL="../../../../../../Aerotech/Documents/BNLStaveAssembly-blueprint/Bin/Aerotech.A3200.dll"/>
-			<Item Name="Aerotech.A3200.LabVIEW.dll" Type="Document" URL="../../../../../../Aerotech/Documents/BNLStaveAssembly-blueprint/Bin/Aerotech.A3200.LabVIEW.dll"/>
-			<Item Name="Aerotech.A3200.dll" Type="Document" URL="../../../../../../../aerotech/controller/5.xx.xxx/A3200/pc/labview/2010/bin/Aerotech.A3200.dll"/>
-			<Item Name="Aerotech.A3200.LabVIEW.dll" Type="Document" URL="../../../../../../../aerotech/controller/5.xx.xxx/A3200/pc/labview/2010/bin/Aerotech.A3200.LabVIEW.dll"/>
-			<Item Name="Aerotech.A3200.dll" Type="Document" URL="../../../../../../Aerotech/Desktop/BNL Stave Assembly/Bin/Aerotech.A3200.dll"/>
-			<Item Name="Aerotech.A3200.LabVIEW.dll" Type="Document" URL="../../../../../../Aerotech/Desktop/BNL Stave Assembly/Bin/Aerotech.A3200.LabVIEW.dll"/>
+			<Item Name="Aerotech.A3200.dll" Type="Document" URL="../Bin/Aerotech.A3200.dll"/>
+			<Item Name="Aerotech.A3200.LabVIEW.dll" Type="Document" URL="../Bin/Aerotech.A3200.LabVIEW.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="A3200 LabVIEW Operator Interface" Type="EXE">
