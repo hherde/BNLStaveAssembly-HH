@@ -160,6 +160,7 @@
 				<Item Name="2DFilter (SubVI).vi" Type="VI" URL="../SubVIs/2DFilter (SubVI).vi"/>
 				<Item Name="FindTopAndBottomEdges (SubVI).vi" Type="VI" URL="../SubVIs/FindTopAndBottomEdges (SubVI).vi"/>
 				<Item Name="GetCameraPOSinLab (SubVI).vi" Type="VI" URL="../SubVIs/GetCameraPOSinLab (SubVI).vi"/>
+				<Item Name="GetCameraPOSinLab2 (SubVI).vi" Type="VI" URL="../SubVIs/GetCameraPOSinLab2 (SubVI).vi"/>
 				<Item Name="ChangeToStaveCoordinateFrame (SubVI).vi" Type="VI" URL="../SubVIs/ChangeToStaveCoordinateFrame (SubVI).vi"/>
 				<Item Name="Intensity-XY2rPhi (SubVI).vi" Type="VI" URL="../SubVIs/Intensity-XY2rPhi (SubVI).vi"/>
 				<Item Name="NormalizedIntensityVsRadius.vi" Type="VI" URL="../SubVIs/NormalizedIntensityVsRadius.vi"/>
@@ -185,6 +186,7 @@
 			<Item Name="ExamineImageCalibration.vi" Type="VI" URL="../Utils/ExamineImageCalibration.vi"/>
 			<Item Name="practiceImageAnalysis.vi" Type="VI" URL="../Analysis/practiceImageAnalysis.vi"/>
 			<Item Name="practiceImageAnalysis - HH.vi" Type="VI" URL="../Analysis/practiceImageAnalysis - HH.vi"/>
+			<Item Name="practiceImageAnalysis - ModulePOS.vi" Type="VI" URL="../Analysis/practiceImageAnalysis - ModulePOS.vi"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
