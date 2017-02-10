@@ -191,6 +191,7 @@
 			<Item Name="practiceImageAnalysis - HH.vi" Type="VI" URL="../Analysis/practiceImageAnalysis - HH.vi"/>
 			<Item Name="practiceImageAnalysis - ModulePOS.vi" Type="VI" URL="../Analysis/practiceImageAnalysis - ModulePOS.vi"/>
 		</Item>
+		<Item Name="AverageImage.vi" Type="VI" URL="../../../../../Desktop/AverageImage.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
